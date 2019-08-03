@@ -1,5 +1,5 @@
 action = {
-  type: 'INCREASE'
+  type: "INCREASE"
 }
 
 export function managePresents(state, action){
